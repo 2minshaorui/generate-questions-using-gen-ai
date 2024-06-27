@@ -57,7 +57,7 @@ def summarise(sentences, sentenceValue, average):
   return summary
 
 def main():
-  print("Starting up question generator...")
+  print("Starting up NLTK-based summariser...")
 
   parser = argparse.ArgumentParser(description="URL of webpage:")
   parser.add_argument("input_string", type=str, help="URL of webpage to generate questions")
