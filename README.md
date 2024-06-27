@@ -9,3 +9,8 @@
 ```powershell
 python <name_of_summariser> <webpage_url>
 ``` 
+
+# Revision History 
+| **Date** | **Changelogs** |
+| -- | -- |
+| 27-06-2024 | - Initial creation |
